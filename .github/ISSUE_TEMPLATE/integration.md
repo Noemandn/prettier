@@ -1,6 +1,7 @@
 ---
-name: ⚙ Integration
+name: "⚙ Integration"
 about: Issues for API, CLI, etc.
+
 ---
 
 <!--
