@@ -1,6 +1,7 @@
 ---
-name: ✨ Formatting
+name: "✨ Formatting"
 about: Issues for ugly or incorrect code
+
 ---
 
 <!--
